@@ -28,6 +28,12 @@ img {
 
 .formContainer {
   background-color: lightyellow;
-  width: auto;
+  width: 400px;
   height: auto;
+  padding: 20px;
+}
+
+label {
+  display: block;
+  margin: 20px 5px;
 }
